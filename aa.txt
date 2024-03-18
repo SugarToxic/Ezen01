@@ -39,3 +39,7 @@ Insomnia, where we are
 잠들지 못한 내 숨결에 떨린 두근대는 나의 stereo
 Insomnia, where we are
 라, 라랄라, 라랄라, 랄라
+
+//ver 1.4 Branch Kim 추가작업
+master작업 환경에 ver1.3이 있기 때문에 1.4로 업데이트 하였습니다.
+
